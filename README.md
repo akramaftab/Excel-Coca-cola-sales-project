@@ -83,6 +83,7 @@ The Excel Coca-Cola Sales Analytics Dashboard equips decision-makers with a robu
 - Sales and Profit Modeling
 - Interactive Visualization Tools
 
-## Project
-([click to View project the project](https://github.com/akramaftab/Excel-Coca-cola-sales-project/blob/main/Excel%20Coca%20Cola%20Sales%20Dashboard.xlsx))
+## screenshot/demo
+<img width="1076" height="622" alt="image" src="https://github.com/user-attachments/assets/7ed2fb5e-1af5-47ce-88ce-40d3e4f3ae20" />
+
 ***
