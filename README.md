@@ -11,7 +11,7 @@ The Coca-Cola Sales Analytics Dashboard is an Excel-based business intelligence 
 
 The main objective is to provide a clear and actionable view of Coca-Cola sales performance at the product, regional, and outlet levels. The solution enables stakeholders to examine trends in volume and revenue, identify leading products and cities, spot opportunities, and address market challenges with targeted recommendations.
 
-## ([Dataset Used])
+## Dataset Used
 
 The underlying dataset includes thousands of daily sales records covering:
 - Multiple Coca-Cola beverage types (e.g., Coca-Cola, Diet Coke, Sprite, Fanta, Powerade, Dasani Water).
