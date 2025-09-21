@@ -83,8 +83,6 @@ The Excel Coca-Cola Sales Analytics Dashboard equips decision-makers with a robu
 - Sales and Profit Modeling
 - Interactive Visualization Tools
 
+## Project
+([click to View project the project](https://github.com/akramaftab/SQL-pizzas-sales-project/blob/main/SQL%20PIZZA%20SALES%20PROJECT.pdf))
 ***
-
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/99293206/90c1e5da-e886-4327-9d61-2febd08192c0/SQL-PIZZA-SALES-PROJECT.pdf)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/99293206/d27473ef-2b47-4fda-a4b4-7f1a94fa9010/Excel-Coca-Cola-Sales-Dashboard.xlsx)
